@@ -1,0 +1,6 @@
+{
+  "name": "PulseQuiz",
+  "description": "Gamified adaptive learning and competitive MCQ generator with online AI and offline lightweight synthesis, multi-user guest profiles, real-time leaderboards, and OAuth 2.0 sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

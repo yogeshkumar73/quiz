@@ -1,0 +1,24 @@
+{
+  "name": "pulsequiz",
+  "version": "1.0.0",
+  "description": "Gamified adaptive learning and competitive MCQ generator with online Gemini AI and offline lightweight synthesis, multi-user guest profiles, real-time leaderboards, and OAuth 2.0 sync.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "android",
+    "kotlin",
+    "jetpack-compose",
+    "gemini-ai",
+    "pydantic",
+    "quiz",
+    "mcq",
+    "gamification",
+    "vercel"
+  ],
+  "author": "PulseQuiz Team",
+  "license": "MIT"
+}

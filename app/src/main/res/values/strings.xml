@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PulseQuiz</string>
+    <string name="arena_subtitle">Adaptive AI &amp; Offline MCQ Studio</string>
+    <string name="nav_arena">Arena</string>
+    <string name="nav_studio">MCQ Studio</string>
+    <string name="nav_mastery">Mastery</string>
+    <string name="nav_ranks">Ranks</string>
+    <string name="nav_security">Security</string>
+    <string name="mode_adaptive">Adaptive Learning</string>
+    <string name="mode_competitive">Competitive Blitz</string>
+    <string name="mode_head_to_head">Head-to-Head Duel</string>
+    <string name="status_online_ai">Online Gemini Schema Mode</string>
+    <string name="status_offline_engine">Offline Lightweight Engine</string>
+    <string name="guest_instant_access">Instant Guest Access Active</string>
+    <string name="oauth_connect_label">Link Google OAuth 2.0</string>
+    <string name="generate_mcqs_cta">Synthesize Validated MCQs</string>
+    <string name="start_daily_blitz">Play Daily Blitz Tournament</string>
+    <string name="revision_deck_title">Weak-Topic Revision Deck</string>
+    <string name="security_audit_title">Pydantic Schema &amp; Security Suite</string>
+</resources>
